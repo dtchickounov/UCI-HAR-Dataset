@@ -1,3 +1,5 @@
+Changing and testing
+
 #STEP 1:
 #dowloading and saving 3 txt files for the train data: 
 
